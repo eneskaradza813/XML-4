@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><books>
+    <book id="01" isbn="12345">
+        <title>Childhood's End</title>
+        <author>Arthur Clarke</author>
+    </book>
+    <book id="02" isbn="6789">
+        <title>The Merchant of Venice</title>
+        <author>Wiliam Shakespeare</author>
+    </book>
+    <book id="1234567654" isbn="5464">
+        <title>The Caves of Steel</title>
+        <author>Isac Adamov</author>
+    </book>
+</books>
